@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\app",
+    "\\public",
+    "\\public\\assets",
+    "\\src",
+    "\\src\\components",
+    "\\src\\router",
+    "\\src\\theme",
+    "\\src\\views"
+  ],
+  "PreviewInSolutionExplorer": false
+}
